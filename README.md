@@ -1,4 +1,8 @@
 # Note
+## Linux VPS
+一键DD
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 10 -v 64 -p "自定义root密码" -port "自定义ssh端口"
+
 
 ## MacOS
 ###
